@@ -20,3 +20,14 @@ C:\Users\MSI GAMING\Source\Repos\visus69\davin\obj\Debug\DAVIN.csproj.GenerateRe
 C:\Users\MSI GAMING\Source\Repos\visus69\davin\obj\Debug\DAVIN.csproj.CoreCompileInputs.cache
 C:\Users\MSI GAMING\Source\Repos\visus69\davin\obj\Debug\DAVIN.exe
 C:\Users\MSI GAMING\Source\Repos\visus69\davin\obj\Debug\DAVIN.pdb
+C:\Users\ASUS\source\repos\davinnew\bin\Debug\DAVIN.exe.config
+C:\Users\ASUS\source\repos\davinnew\bin\Debug\DAVIN.exe
+C:\Users\ASUS\source\repos\davinnew\bin\Debug\DAVIN.pdb
+C:\Users\ASUS\source\repos\davinnew\obj\Debug\DAVIN.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\davinnew\obj\Debug\DAVIN.form1.resources
+C:\Users\ASUS\source\repos\davinnew\obj\Debug\DAVIN.Properties.Resources.resources
+C:\Users\ASUS\source\repos\davinnew\obj\Debug\DAVIN.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\davinnew\obj\Debug\DAVIN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\davinnew\obj\Debug\DAVIN.exe
+C:\Users\ASUS\source\repos\davinnew\obj\Debug\DAVIN.pdb
+C:\Users\ASUS\source\repos\davinnew\obj\Debug\DAVIN.Homepage.resources
